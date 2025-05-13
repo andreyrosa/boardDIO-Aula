@@ -69,20 +69,19 @@ cd boardDIO-Aula
 ---
 
 ## 🗂️ Estrutura do projeto
-
+```
 boardDIO-Aula/
-│
 ├── src/
 │ └── main/
 │ └── java/ # Código-fonte Java
-│
 ├── build.gradle.kts # Script de build do Gradle
 ├── settings.gradle.kts # Configurações do Gradle
 ├── .gitignore # Arquivos ignorados pelo Git
 ├── liquibase.log # Log de versionamento do banco de dados
-├── gradlew / gradlew.bat # Wrapper do Gradle para Linux/Mac e Windows
+├── gradlew # Wrapper do Gradle para Linux/Mac
+├── gradlew.bat # Wrapper do Gradle para Windows
 └── README.md # Este arquivo
-
+```
 
 ---
 

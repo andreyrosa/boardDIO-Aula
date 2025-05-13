@@ -54,11 +54,11 @@ Este projeto tem como objetivo principal oferecer uma base sólida para quem est
 - IDE de sua preferência (IntelliJ IDEA, Eclipse, VSCode).
 
 ### 🛠️ Passos para rodar
-
+```
 1. Clone o repositório:
 git clone https://github.com/andreyrosa/boardDIO-Aula.git
 cd boardDIO-Aula
-
+````
 
 2. Compile o projeto com Gradle:
 ./gradlew build
